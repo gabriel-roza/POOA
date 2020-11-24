@@ -1,5 +1,5 @@
-public class Cliente
-{
+public class Cliente{
+
     public int ClienteId {...}
     public string Nome {...}
     public string Email {...}
